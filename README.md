@@ -1,9 +1,5 @@
 <h1 align="center">👨🏾‍🚀🚀 NextLevelWeek - Heat</h1>
 
-
-
-<h2>Índice</h2>
-
 - [⚙️ Tecnologias](#️-tecnologias)
 - [📖 Projeto](#-projeto)
 - [🖌️ Layout](#️-layout)
