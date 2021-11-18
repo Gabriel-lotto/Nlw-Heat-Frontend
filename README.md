@@ -1,10 +1,5 @@
 <h1 align="center">👨🏾‍🚀🚀 NextLevelWeek - Heat</h1>
 
-<div align="center">
-
-  ![DoWhile](react_heat/src/assets/logo.svg)
-
-</div>
 
 
 <h2>Índice</h2>
